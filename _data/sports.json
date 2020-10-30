@@ -1,0 +1,38 @@
+[
+  {
+    "level": "all",
+    "_id": "5f9bbb972282d903ec81b654",
+    "title": "Hot Monday basketball 1",
+    "description": "come and play pickup basketball with us on monday after work 1",
+    "rules": "no alchool and no smoking ",
+    "event": "5d713995b721c3bb38c1f5d0",
+    "user": "5f9b928f5e4d19124019bdb0"
+},
+{
+  "level": "all",
+  "_id": "5f9bbb972282d903ec81b655",
+  "title": "Hot Monday basketball 2",
+  "description": "come and play pickup basketball with us on monday after work 2",
+  "rules": "no alchool and no smoking ",
+  "event": "5d713995b721c3bb38c1f5d0",
+  "user": "5f9b928f5e4d19124019bdb0"
+},
+{
+  "level": "all",
+    "_id": "5f9bbb972282d903ec81b656",
+    "title": "Hot Monday basketball 3",
+    "description": "come and play pickup basketball with us on monday after work 3",
+    "rules": "no alchool and no smoking ",
+    "event": "5d713995b721c3bb38c1f5d1",
+    "user": "5f9b928f5e4d19124019bdb1"
+},
+{
+  "level": "all",
+    "_id": "5f9bbb972282d903ec81b657",
+    "title": "Hot Monday basketball 4",
+    "description": "come and play pickup basketball with us on monday after work 4",
+    "rules": "no alchool and no smoking ",
+    "event": "5d713995b721c3bb38c1f5d1",
+    "user": "5f9b928f5e4d19124019bdb1"
+}
+]

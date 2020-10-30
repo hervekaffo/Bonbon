@@ -1,0 +1,20 @@
+[
+  {
+      "_id": "5f9bdc6f33d33d4818fc12ac",
+      "title": "nice an really nice",
+      "comment": "awsome and really really awsome",
+      "rating": 7,
+      "event":"5d713995b721c3bb38c1f5d0",
+      "user": "5f9b928f5e4d19124019bdb0",
+      "createdAt": "2020-12-30T09:27:11.559Z"
+  },
+  {
+    "_id": "5f9bdc6f33d33d4818fc12ad",
+    "title": "poor level",
+    "comment": "not a good level of basketball",
+    "rating": 2,
+    "event":"5d713995b721c3bb38c1f5d1",
+    "user": "5f9b928f5e4d19124019bdb1",
+    "createdAt": "2020-11-30T09:27:11.559Z"
+}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"_id": "5f9b928f5e4d19124019bdb1",
+		"name": "Admin Account",
+		"email": "admin@gmail.com",
+		"role": "user",
+		"password": "123456"
+	},
+	{
+		"_id": "5f9b928f5e4d19124019bdb0",
+		"name": "Publisher Account",
+		"email": "publisher@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+  },
+  {
+		"_id": "5f9b928f5e4d19124019bdb2",
+		"name": "Other Account",
+		"email": "other@gmail.com",
+		"role": "publisher",
+		"password": "123456"
+  },
+  {
+		"_id": "5f9b928f5e4d19124019bdb",
+		"name": "james",
+		"email": "james@gmail.com",
+		"role": "user",
+		"password": "123456"
+	}
+]

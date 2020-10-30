@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "name":"Test event 1",
+    "description": "test description for event 1",
+    "date": "2020-12-28T06:44:30.130+00:00",
+    "address": "51 BRATTLE ST, cambridge, MA, 02138",
+    "email": "enroll@devworks.com",
+    "user":"5f9b928f5e4d19124019bdb0",
+    "phone": "(111) 111-1111"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d1",
+    "name":"Test event 2",
+    "description": "test description for event 1",
+    "date": "2020-12-28T06:44:30.130+00:00",
+    "address": "37 gorham ST, cambridge, MA, 02138",
+    "email": "enroll2@devworks.com",
+    "user":"5f9b928f5e4d19124019bdb1",
+    "phone": "(222) 222-1121"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d2",
+    "name":"Test event 3",
+    "description": "test description for event 3",
+    "date": "2020-12-28T06:44:30.130+00:00",
+    "address": "905 Asp Ave, Norman, OK 73019-1089, US",
+    "email": "enroll5@devworks.com",
+    "user":"5f9b928f5e4d19124019bdb2",
+    "phone": "(333) 333-3333"
+  },
+  {
+    "_id": "5d713995b721c3bb38c1f5d3",
+    "name":"Test event 4",
+    "description": "test description for event 4",
+    "date": "2020-12-28T06:44:30.130+00:00",
+    "address": "905 Asp Ave, Norman, OK 73019-1089, US",
+    "email": "enroll4@devworks.com",
+    "user":"5f9b928f5e4d19124019bdb3",
+    "phone": "(444) 444-444"
+  }
+]
