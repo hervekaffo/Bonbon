@@ -36,9 +36,9 @@ node seeder -i
 
 ## Demo
 
-The API is live at [backend-bonbon.kaffotech.live](https://bonbon.kaffotech.live)
+The API is live at [bonbon.kaffotech.live](https://bonbon.kaffotech.live)
 
-Extensive documentation with examples [here]()
+Extensive documentation with examples [here](https://documenter.getpostman.com/view/1868560/TVYKbGwJ)
 
 - Version: 1.0.0
 - License: MIT
